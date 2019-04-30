@@ -13,7 +13,8 @@ $i = 1
 <body>
 	<?php if ($i ==1)
 	echo "hello";
-	Echo "tomorrow"
+	echo "<br>";
+	Echo "tomorrow";
 	?>
 </body>
 </html>
