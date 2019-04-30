@@ -12,6 +12,8 @@ $i = 1
 </head>
 <body>
 	<?php if ($i ==1)
-	echo "hello"; ?>
+	echo "hello";
+	Echo "tomorrow"
+	?>
 </body>
 </html>
